@@ -1,0 +1,67 @@
+.navbar {
+    background-color: #B3C8CF;
+    font-family: "Nunito", sans-serif;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: "Nunito", sans-serif; 
+}
+
+
+.navbar img {
+    height: 120px;
+}
+
+.navbar ul li a:hover {
+    opacity: 0.8;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #000000;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-produtos .nav-link.active:hover {
+    color: #fff;
+}
+
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.carousel-item {
+
+    height: 85vh; /* Defina a altura desejada */
+
+}
+
+.section-title {
+    color: #76ABAE;
+    text-transform: uppercase;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+    
+}
+
+.social-links a {
+    text-decoration: none;
+    color: #76ABAE;
+}
+
+.social-links a:hover {
+    opacity: 0.8;
+}
+
+#fale-conosco button {
+    background-color: #76ABAE;
+}
+
+
